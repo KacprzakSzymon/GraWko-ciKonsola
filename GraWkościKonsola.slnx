@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GraWkościKonsola/GraWkościKonsola.csproj" />
+  <Project Path="Test/Test.csproj" />
+</Solution>
